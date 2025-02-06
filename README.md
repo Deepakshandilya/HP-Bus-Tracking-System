@@ -17,8 +17,6 @@ Passengers, operators, and authorities can benefit from accurate tracking, route
 - [Usage](#usage)
 - [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -36,7 +34,7 @@ Passengers, operators, and authorities can benefit from accurate tracking, route
 Before setting up the system, make sure you have the following prerequisites:
 
 - GPS devices installed on the buses.
-- Cloud service provider account (e.g., AWS, Azure, GCP).
+- Cloud service provider account (AWS,  GCP).
 - Required software dependencies as outlined in the installation instructions.
 
 ### Installation
@@ -55,7 +53,7 @@ Explore the data analytics and reporting tools for insights into bus performance
 The bus tracking system architecture consists of the following components:
 
 GPS Devices on Buses
-Server Infrastructure (AWS, Azure, or GCP)
+Server Infrastructure (AWS,GCP)
 Real-time Database (In-Memory and Time-Series)
 Web and Mobile Applications
 Data Analytics and Reporting
