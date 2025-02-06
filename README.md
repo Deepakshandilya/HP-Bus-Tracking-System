@@ -64,12 +64,16 @@ For a detailed architectural overview, please refer to our Architecture Guide.
 **Technologies Used**
 GPS Tracking Devices (Queclink GV600, CalAmp LMU Series)
 Cloud Services (AWS, Azure, GCP)
-Databases (Redis, InfluxDB, PostgreSQL)
+Databases 
 Web Frameworks (Django, Flask)
 Mobile App Development (React Native)
 Data Analytics Tools (Python, Pandas, Matplotlib)
 Contributing
 
-We welcome contributions to enhance the bus tracking system. To contribute, please follow our Contribution Guidelines.
+![image](https://github.com/user-attachments/assets/ace5b328-ece7-4e51-be09-7876036babe7)
+
+![image](https://github.com/user-attachments/assets/a1518902-0928-4ba9-a03e-76809c714bba)
+
+
 
 
